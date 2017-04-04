@@ -1,6 +1,6 @@
-# Comment
-whoami # Who
-ls # What
-pwd # Where
-cd # Nav
-date # When
+# Comments
+whoami                # Who
+ls                    # What
+pwd                   # Where
+cd                    # Nav
+date                  # When
