@@ -1,5 +1,5 @@
 # Comment
-# Who - whoami
-# Whatsaround - ls
-# Where - pwd
-# Nav - cd
+whoami # Who
+ls # Whatsaround
+pwd # Where am I
+cd # Nav
