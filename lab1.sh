@@ -1,5 +1,6 @@
 # Comment
 whoami # Who
-ls # Whatsaround
-pwd # Where am I
+ls # What
+pwd # Where
 cd # Nav
+date # When
