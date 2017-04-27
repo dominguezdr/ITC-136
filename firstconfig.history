@@ -1,0 +1,62 @@
+    1  sudo su
+    2  ps aux more
+    3  ps aus | more
+    4  ps aux 
+    5  ps aux more
+    6  ps aux -more
+    7  ps aux 
+    8  ps aux|more
+    9  ps aux | grep firefox
+   10  kill 2659
+   11  ps aux | grep firefox
+   12  kill 2809
+   13  ps aux | grep firefox
+   14  kill 2813
+   15  kill 2815
+   16  ps aux | grep terminal
+   17  kill 1664
+   18  ps aux|less
+   19  top 
+   20  lsof
+   21  lsof | more
+   22  sudo su 
+   23  top\
+   24  lsof | more
+   25  man more
+   26  man -d
+   27  lsof | less
+   28  clear
+   29  pstree | less
+   30  top
+   31  ls /
+   32  ls -l 
+   33  cd ~ 
+   34  cd desktop
+   35  cd Desktop
+   36  echo "test" >> test.text 
+   37  vim 
+   38  vi
+   39  vi -sh
+   40  apt-get update
+   41  sudo apt-get update
+   42  sudo suo
+   43  sudo su
+   44  git 
+   45  git clone https://github.com/dominguezdr/ITC-136.git
+   46  ls -l
+   47  cd ITC-136/
+   48  ls
+   49  cd ITC-136/
+   50  dir
+   51  cd ..
+   52  dir
+   53  git
+   54  cd ITC-136/
+   55  ls -ltra
+   56  cd .git
+   57  ls -la
+   58  cd ..
+   59  git config --global user.email "dominguez.ddr@gmail.com" 
+   60  git config --global user.name "dominguezdr"
+   61  histroy >> firstconfig.history
+   62  history >> firstconfig.history
